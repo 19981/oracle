@@ -75,3 +75,7 @@ SELECT a.tablespace_name "表空间名",Total/1024/1024 "大小MB",
 
 - autoextensible 是显示表空间中的数据文件是否自动增加。
 - MAX_MB 是指数据文件的最大容量。
+
+## 共享测试
+
+![share](share.png)
